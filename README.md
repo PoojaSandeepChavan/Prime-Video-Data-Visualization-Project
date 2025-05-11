@@ -46,7 +46,7 @@ This project is a **Tableau dashboard** that visualizes data from Prime Video, s
 ## Connect with Me
 I would love to hear your feedback and thoughts on this project!  
 - **LinkedIn**: [Pooja Chavan](https://www.linkedin.com/in/pooja-chavan-28aaaa216/)  
-- **GitHub**: [Bakery Performance Analysis Dashboard](https://github.com/PoojaSandeepChavan/Bakery-Performance-Analysis-Dashboard)  
+- **GitHub**: [Prime Video Data Visualization Dashboard](https://github.com/PoojaSandeepChavan/Prime-Video-Data-Visualization-Project)  
 - **Email**: [poochavan66@gmail.com](mailto:poochavan66@gmail.com)
 
 ---
